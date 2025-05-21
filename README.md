@@ -35,8 +35,8 @@ I'm a 15-year-old developer hoping to get into backend development!
     goVisit(P3til.getWebsiteURL());
     ```
 
-- 🥈 Java  
-- 🥉 Python
+- 🥈 JavaScript  
+- 🥉 Java
 
 ---
 
